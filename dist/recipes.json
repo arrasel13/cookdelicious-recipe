@@ -1,0 +1,98 @@
+[
+    {
+      "recipe_image": "https://i.imgur.com/FfVdsZr.jpeg",
+      "id": "101",
+      "recipe_name": "Chicken Basil Stir-Fry",
+      "short_description": "A quick and flavorful Thai-inspired chicken dish.",
+      "ingredients": [
+        "550 g chicken",
+        "120 ml soy sauce",
+        "200 g basil leaf",
+        "400 g mushroom",
+        "2 cloves garlic",
+        "2 tbsp vegetable oil"
+      ],
+      "preparing_time": "30",
+      "calories": "320"
+    },
+    {
+      "recipe_image": "https://i.imgur.com/iduzav0.jpeg",
+      "id": "102",
+      "recipe_name": "Creamy Veggie Pasta",
+      "short_description": "A hearty pasta dish loaded with fresh vegetables.",
+      "ingredients": [
+        "300 g pasta",
+        "100 g cherry tomatoes",
+        "200 g broccoli",
+        "1 zucchini",
+        "200 ml heavy cream",
+        "50 g parmesan cheese"
+      ],
+      "preparing_time": "25",
+      "calories": "450"
+    },
+    {
+      "recipe_image": "https://i.imgur.com/g1mbuZn.jpeg",
+      "id": "103",
+      "recipe_name": "Classic Beef Stew",
+      "short_description": "A warm and comforting beef stew with tender vegetables.",
+      "ingredients": [
+        "500 g beef chunks",
+        "3 carrots",
+        "2 potatoes",
+        "1 onion",
+        "500 ml beef broth",
+        "2 tbsp tomato paste"
+      ],
+      "preparing_time": "1 hr 30",
+      "calories": "600"
+    },
+    {
+      "recipe_image": "https://i.imgur.com/SgtegBh.jpeg",
+      "id": "104",
+      "recipe_name": "Fluffy Pancakes",
+      "short_description": "Light and fluffy pancakes perfect for breakfast.",
+      "ingredients": [
+        "200 g flour",
+        "2 eggs",
+        "300 ml milk",
+        "50 g sugar",
+        "1 tsp baking powder",
+        "50 g butter"
+      ],
+      "preparing_time": "20",
+      "calories": "290"
+    },
+    {
+      "recipe_image": "https://i.imgur.com/NjFBCCi.jpeg",
+      "id": "105",
+      "recipe_name": "Spicy Shrimp Tacos",
+      "short_description": "Tacos filled with spicy shrimp and fresh toppings.",
+      "ingredients": [
+        "300 g shrimp",
+        "6 taco shells",
+        "100 g lettuce",
+        "50 g sour cream",
+        "1 lime",
+        "2 tbsp chili powder"
+      ],
+      "preparing_time": "20",
+      "calories": "250"
+    },
+    {
+      "recipe_image": "https://img.freepik.com/free-photo/tasty-healthy-oatmeal-porridge-with-fruit-berry-flax-seeds-healthy-breakfast-fitness-food-proper-nutrition_2829-11190.jpg",
+      "id": "106",
+      "recipe_name": "Vegan Buddha Bowl",
+      "short_description": "A colorful bowl of healthy vegan goodness.",
+      "ingredients": [
+        "100 g quinoa",
+        "150 g chickpeas",
+        "100 g kale",
+        "50 g avocado",
+        "30 g tahini",
+        "1 tbsp olive oil"
+      ],
+      "preparing_time": "15",
+      "calories": "200"
+    }
+]
